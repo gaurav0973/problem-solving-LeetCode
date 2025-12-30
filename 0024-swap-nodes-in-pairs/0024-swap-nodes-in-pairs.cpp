@@ -56,7 +56,7 @@ public:
                 prevLeft->next = newHead;
 
             // left becomes tail after reverse
-            left->next = nextLeft;
+            // left->next = nextLeft;
 
             prevLeft = left;
             left = nextLeft;

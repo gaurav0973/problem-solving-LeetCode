@@ -63,6 +63,6 @@ public:
             left = nextLeft;
         }
 
-        return ans;
+        return ans ? ans : head;
     }
 };

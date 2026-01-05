@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->

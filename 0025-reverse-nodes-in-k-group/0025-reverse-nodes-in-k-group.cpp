@@ -36,29 +36,22 @@ public:
 
             // check if k nodes exist
             for (int i = 1; i < k; i++) {
-                if (right == nullptr) break;
+                if (!right->next) {
+                    if (prevLeft)
+                        prevLeft->next = left;
+                    return ans ? ans : head;
+                }
                 right = right->next;
             }
-
-            if (right == nullptr) {
-                if (prevLeft) prevLeft->next = left;
-                break;
-            }
-
             ListNode* nextLeft = right->next;
 
-            // reverse k nodes
-            ListNode* newHead = reverse(left, k);
+            ListNode* newGrpHead = reverse(left, k);
 
             if (ans == nullptr)
-                ans = newHead;
+                ans = newGrpHead;
 
             if (prevLeft)
-                prevLeft->next = newHead;
-
-            // left becomes tail after reverse
-            // left->next = nextLeft;
-
+                prevLeft->next = newGrpHead;
             prevLeft = left;
             left = nextLeft;
         }

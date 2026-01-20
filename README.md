@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Dynamic Programming
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 ## Queue
 |  |
 | ------- |

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0409-longest-palindrome) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Linked List
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Tree
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
@@ -119,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |

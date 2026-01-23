@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |

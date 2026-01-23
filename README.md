@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 ## Queue
 |  |

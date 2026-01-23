@@ -29,6 +29,7 @@ public:
             if (r < n) {
                 cnt = (cnt * (r - l)) % MOD;
             }
+            r = r;
         }
 
         return cnt;

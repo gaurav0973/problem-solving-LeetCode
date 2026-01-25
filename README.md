@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0493-reverse-pairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -204,20 +206,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0053-maximum-subarray) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -239,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0493-reverse-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

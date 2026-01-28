@@ -9,12 +9,12 @@ public:
         return cnt;
     }
     long long minCost(vector<int>& nums, vector<int>& cost) {
-        long long start = nums[0];
-        long long end = nums[0];
-        for(long long x : nums){
-            start = min(start, x);
-            end = max(end, x);
-        }
+        long long start = 1;
+        long long end = 1e6;
+        // for(long long x : nums){
+        //     start = min(start, x);
+        //     end = max(end, x);
+        // }
 
         long long ans = 0;
         while(start <= end){

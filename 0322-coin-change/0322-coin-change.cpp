@@ -1,6 +1,8 @@
 class Solution {
 public:
     int solve(vector<int> &nums, int idx, int amt, vector<vector<int>> &t){
+        if(amt < 0)
+            return 1e9;
         if(idx == 0){
             if(amt%nums[idx] == 0){
                 return amt/nums[idx];

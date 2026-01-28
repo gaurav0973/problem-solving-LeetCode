@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0063-unique-paths-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0063-unique-paths-ii) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0443-string-compression](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0443-string-compression) |
 ## Sorting
 |  |
@@ -266,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

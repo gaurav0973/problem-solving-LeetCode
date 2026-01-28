@@ -4,11 +4,6 @@ public:
         int n = bloomDay.size();
         int start = 1;
         int end = 1e9;
-        // for (int i = 0; i < n; i++) {
-        //     start = min(bloomDay[i], start);
-        //     end = max(bloomDay[i], end);
-        // }
-
         int ans = -1;
         while (start <= end) {
             int mid = start + (end - start) / 2;

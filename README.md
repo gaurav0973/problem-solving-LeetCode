@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0409-longest-palindrome) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0991-broken-calculator](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0991-broken-calculator) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Hash Table
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
+| [0991-broken-calculator](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |

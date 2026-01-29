@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1328-break-a-palindrome](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1328-break-a-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0409-longest-palindrome) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0991-broken-calculator](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0991-broken-calculator) |
+| [1328-break-a-palindrome](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1328-break-a-palindrome) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Hash Table
 |  |

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0409-longest-palindrome) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Linked List
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -284,8 +289,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1052-grumpy-bookstore-owner) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |

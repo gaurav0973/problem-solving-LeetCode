@@ -3,7 +3,7 @@ public:
     int maximumSum(vector<int>& nums) {
         int n = nums.size();
         int noDelete = nums[0];
-        int oneDelete = 0;
+        int oneDelete = -1e4;
         int ans = nums[0];
         for(int i=1; i<n; i++){
             int prevOneDelete = oneDelete; 

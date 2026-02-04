@@ -13,7 +13,7 @@ public:
         while(r < n){
             sum+= arr[r];
 
-            double avg = sum/k;
+            int avg = sum/k;
             if(avg >= threshold)
                 cnt++;
             sum-=arr[l];

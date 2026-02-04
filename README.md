@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2653-sliding-subarray-beauty) |

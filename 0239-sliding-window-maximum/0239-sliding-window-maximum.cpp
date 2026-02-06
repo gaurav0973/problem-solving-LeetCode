@@ -16,7 +16,7 @@ public:
 
         while (r < n) {
 
-            // 1. Insert nums[r] into monotonic queue correctly
+            // First positin should be of 
             while (dq.size()>0 && nums[r] > nums[dq.back()])
                 dq.pop_back();
             dq.push_back(r);

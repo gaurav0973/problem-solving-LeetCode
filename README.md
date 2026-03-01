@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -306,10 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Stack
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |

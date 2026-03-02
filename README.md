@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -311,11 +312,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |

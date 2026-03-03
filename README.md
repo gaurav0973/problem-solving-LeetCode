@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1328-break-a-palindrome](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1328-break-a-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -390,8 +394,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 <!---LeetCode Topics End-->

@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0834-sum-of-distances-in-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0834-sum-of-distances-in-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0834-sum-of-distances-in-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0834-sum-of-distances-in-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |

@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0797-all-paths-from-source-to-target](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0886-possible-bipartition) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0886-possible-bipartition) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0886-possible-bipartition) |

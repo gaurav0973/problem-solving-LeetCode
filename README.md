@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2653-sliding-subarray-beauty) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0834-sum-of-distances-in-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0834-sum-of-distances-in-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0886-possible-bipartition) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |

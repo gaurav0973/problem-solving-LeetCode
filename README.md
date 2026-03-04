@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0886-possible-bipartition) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0841-keys-and-rooms) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Quickselect
 |  |
 | ------- |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0841-keys-and-rooms) |
@@ -404,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0210-course-schedule-ii) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->

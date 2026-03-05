@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Stack
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |

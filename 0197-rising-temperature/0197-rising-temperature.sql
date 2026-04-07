@@ -1,8 +1,7 @@
 # Write your MySQL query statement below
 
-
-select x.id 
-from Weather as x
-left join Weather as y
-on x.recordDate - Interval 1 Day = y.recordDate
-where x.temperature > y.temperature;
+SELECT currDay.id
+FROM Weather AS currDay
+JOIN Weather AS prevDay
+  ON DATEDIFF(currDay.recordDate, prevDay.recordDate) = 1
+WHERE currDay.temperature > prevDay.temperature;

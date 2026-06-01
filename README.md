@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0268-missing-number) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/0200-number-of-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gaurav0973/problem-solving-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
